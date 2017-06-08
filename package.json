@@ -4,7 +4,7 @@
   "description": "There is no happiness in colors.  A minimal, dark syntax theme for Visual Studio Code that doesn't make your code look like a parrot.",
   "version": "0.0.2",
   "publisher": "notoroszbig",
-  "repository": "http://github.com/notoroszbig/theme-nohappinessincolors",
+  "repository": "https://github.com/notoroszbig/theme-nohappinessincolors",
   "engines": {
     "vscode": "^1.11.0"
   },
