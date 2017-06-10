@@ -2,6 +2,8 @@
 
 #### A minimal, dark syntax theme for Visual Studio Code that does not make your code look like a parrot.
 
+## Screenshots
+
 Javascript
 ![Javascript Sample Image](scrots/js-sample.png)
 
