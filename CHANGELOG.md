@@ -1,7 +1,22 @@
 # Change Log
 All notable changes to the "theme-nohappinessincolors" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
 ## [Unreleased]
-- Initial release
+- continue fighting the good fight in making VS Code _darker_. More UI additions TODO:
+  - Diff Editor, Merge Conflicts
+  - Editor widgets
+  - Peek View
+  - and more.. drop an issue or better yet a PR!
+
+## [1.0.1] - 2017-09-18
+### Fixed
+- darker highlights so foreground text is more readable
+  - current line highlight
+  - selection hightlight
+  - current selections
+  - find / replace matches
+  - bracket / brace highlights
+  - links
+
+## [1.0.0] - 2017-09-09
+  - Initial release
