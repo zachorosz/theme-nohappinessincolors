@@ -8,6 +8,19 @@ All notable changes to the "theme-nohappinessincolors" extension will be documen
   - Peek View
   - and more.. drop an issue or better yet a PR!
 
+## [1.0.2] - 2017-09-18
+### Fixed
+- darker highlights so foreground text is more readable
+  - current line highlight
+  - selection hightlight
+  - current selections
+  - find / replace matches
+  - bracket / brace highlights
+  - links
+### Added
+- .vscodeignore file, smaller extension footprint
+- keywords
+
 ## [1.0.1] - 2017-09-18
 ### Fixed
 - darker highlights so foreground text is more readable
